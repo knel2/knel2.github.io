@@ -23,8 +23,8 @@ Acomplishments
 -	Dean’s List Award September 2022 – Present
 -	JIDEAS for Women Leaders Certificate, May 2024
 
-## University Name 2 (City, State)
-*[University 2][] description, particularly if not well-known.*
+## Western Washington Universtiy (Bellingham, WA)
+*[WWU][] This is a university that is located in Bellingham, WA *
 
 ** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
 
@@ -48,6 +48,6 @@ Summary of your role
 - Accomplishment
 
 
-[University 1]: http://www.univ1.edu
-[University 2]: http://www.univ2.edu
-[University 3]: http://www.univ3.edu
+[University of Washington]: https://www.washington.edu/
+[University of Western Washington]: https://www.wwu.edu/
+[Central Washington University]: https://www.cwu.edu/
