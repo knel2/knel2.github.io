@@ -8,7 +8,7 @@ kescotolicona@gmail.com
 
 
 # Summary
-First generation college student pursuing a degree in Geography Data Science with the passion for using data to understand the intersection of human populations and technology in the real world through geospatial technology. I am seeking an on-campus data analysis intern position where I can apply my skills in GIS, data visualization, and research to be able to generate actionable data driven insights and support the organization in making informed, customer focus decisions through the help of my technical skills in GIS, SQL and data visualizations.
+>First generation college student pursuing a degree in Geography Data Science with the passion for using data to understand the intersection of human populations and technology in the real world through geospatial technology. I am seeking an on-campus data analysis intern position where I can apply my skills in GIS, data visualization, and research to be able to generate actionable data driven insights and support the organization in making informed, customer focus decisions through the help of my technical skills in GIS, SQL and data visualizations.
 
 
 # Education
@@ -55,3 +55,4 @@ Acomplishments
 [GeoDat]: https://geography.washington.edu/geodat-society-geography-and-data-science
 [Computing for All]: https://www.computingforall.org/
 
+![Github](25231.png)
