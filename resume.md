@@ -13,6 +13,7 @@ First generation college student pursuing a degree in Geography Data Science wit
 
 # Education
 ## University of Washington (Seattle, WA)
+*[University of Washington][] located in Seattle WA as a 4 year university*
 
 **Student** (2022 - Present)
 
@@ -27,7 +28,7 @@ Acomplishments
 # Work Experience (only last 10 years)
 ## Geo Dat Society | Seattle, WA 		September 2025 - Present
 **President** (2025-Present)
-*[Geo Dat@UW][] This is a club for geography data science students that is at uw to be able to create a community and be able to be part of a community for this major and get support in careers*
+*[Geo Dat][] This is a club for geography data science students that is at uw to be able to create a community and be able to be part of a community for this major and get support in careers*
 
 Summary of Role: I lead and manage weekly officer meetings, setting agendas and tracking progress on club initiatives. In addition I coordinate and schedule quarterly events, ensuring alignment with club goals and timelines. Collaborate with a team of 6 officers to delegate responsibilities and oversee club operations. Additionally, I organize and plan a spring hackathon, including logistics, task assignment, and team coordination.
 
